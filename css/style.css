@@ -304,11 +304,13 @@ nav a img {
 .text1 {
   color: white;
   font-size: 0.8em;
+  font-family: 'Lilita One', cursive;
 }
 
 .text2 {
   color: rgb(242, 14, 227);
   font-size: 0.8em;
+  font-family: 'Lilita One', cursive;
 }
 
 .text3 {
